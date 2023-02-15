@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **my end of studies project**
 
-- 🌱 I’m currently learning **new NLP algorithms**
-
 - 👨‍💻 All of my projects are available at **https://github.com/ibtihelgharsalah**
 
-- 📫 How to reach me **gharsalahibtihel732@gmail.com**
+- 📫 You can reach me on **gharsalahibtihel732@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vv5kTKK-q-oAwqFAiVj1umrv1QvutBet/view?usp=sharing](https://drive.google.com/file/d/1vv5kTKK-q-oAwqFAiVj1umrv1QvutBet/view?usp=sharing)
 
