@@ -1,11 +1,11 @@
 <h1 align="center">Hey community 👋, I'm Ibtihel Gharsalah</h1>
-<h3 align="center">A data science enthusiast from Tunisia</h3>
+<h3 align="center">A data science student from Tunisia</h3>
 
-- 🔭 I’m currently working on **my end of studies project**
+- 🔭 I’m currently pursuing a **master's degree in data science**
 
 - 👨‍💻 All of my projects are available at **https://github.com/ibtihelgharsalah**
 
-- 📫 You can reach me on **gharsalahibtihel732@gmail.com**
+- 📫 You can reach me via **gharsalahibtihel732@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vv5kTKK-q-oAwqFAiVj1umrv1QvutBet/view?usp=sharing](https://drive.google.com/file/d/1vv5kTKK-q-oAwqFAiVj1umrv1QvutBet/view?usp=sharing)
 
